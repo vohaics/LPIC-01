@@ -1,0 +1,7 @@
+lsblk: show disk & partion, sda, sdb, sdc, and partition on the disk sda1, sda2, sda3.
+find sda in /dev folder. /dev/sda1/ backbone service
+sudo fdisk --list /dev/sda: show partion on disk devices
+sudo cfdisk /dev/sdb : add extend partition select gpt, dos, sgi, sun (MBR older computer)
+sector: start and end 
+linux swap, EFI system
+LVM type
